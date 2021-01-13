@@ -1,2 +1,2 @@
 # Panda-Commerce
-This is a demo e-commerce website using #Bootstrap
+This is a demo e-commerce website using # Bootstrap
